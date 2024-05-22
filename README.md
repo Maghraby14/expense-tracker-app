@@ -48,10 +48,10 @@ Expense Tracker is a mobile application developed using React Native. The applic
 <img src="assets/recent.jpeg" alt="Recent Expenses Screen" width="300px">
 
 ### All Expenses Screen
-<img src="screenshots/all.jpeg" alt="All Expenses Screen" width="300px">
+<img src="assets/all.jpeg" alt="All Expenses Screen" width="300px">
 
 ### Add Expense Screen
-<img src="screenshots/add.jpeg" alt="Add Expense Screen" width="300px">
+<img src="assets/add.jpeg" alt="Add Expense Screen" width="300px">
 
 
 ## Contributors
