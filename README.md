@@ -16,7 +16,7 @@ Expense Tracker is a mobile application developed using React Native. The applic
 1. **Recent Expenses Screen**: View expenses incurred in the last 7 days.
 2. **All Expenses Screen**: View all recorded expenses.
 3. **Add Expense Screen**: Add new expenses with relevant details.
-4. **Delete Expense Screen**: Delete existing expenses.
+4. **Edit Expense Screen**: Edit existing expenses.
 
 ## Installation
 
